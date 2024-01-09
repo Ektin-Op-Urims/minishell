@@ -1,4 +1,4 @@
 # minishell
 minishell
 
-joint project with @tgroeppmaier
+joint project with @tgroeppmaier https://github.com/tgroeppmaier
